@@ -13,9 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-03-03T13:47:44.798+01:00
+  lastUpdatedAtString: 2020-03-03T13:50:43.733+01:00
   initializedAtString: 2020-03-03T13:26:23.877+01:00
   entries:
+  - path: Assets\NewSurfaceShader.shader
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Assets\NewSurfaceShader.shader
+    projectPath: Assets\NewSurfaceShader.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\NewSurfaceShader.shader.meta
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Assets\NewSurfaceShader.shader.meta
+    projectPath: Assets\NewSurfaceShader.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Assets\Scenes\SampleScene.unity
     fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
@@ -32,8 +44,8 @@ MonoBehaviour:
     fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -44,8 +56,8 @@ MonoBehaviour:
     fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\gfu\cache\gitlog.yaml
     projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -58,18 +70,264 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\metadata\6f\6fb99cc7a7b1c874b9ddc01917368f79
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\metadata\6f\6fb99cc7a7b1c874b9ddc01917368f79
+    projectPath: Library\metadata\6f\6fb99cc7a7b1c874b9ddc01917368f79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6f\6fb99cc7a7b1c874b9ddc01917368f79.info
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\metadata\6f\6fb99cc7a7b1c874b9ddc01917368f79.info
+    projectPath: Library\metadata\6f\6fb99cc7a7b1c874b9ddc01917368f79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptMapper
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\1\129c82429e91cb7feb32e0667f5adaa1.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\1\129c82429e91cb7feb32e0667f5adaa1.bin
+    projectPath: Library\ShaderCache\1\129c82429e91cb7feb32e0667f5adaa1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\14ba61fa1c6515e9e36c3cb9a16ff905.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\1\14ba61fa1c6515e9e36c3cb9a16ff905.bin
+    projectPath: Library\ShaderCache\1\14ba61fa1c6515e9e36c3cb9a16ff905.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1fd0ee614a0d47f410a7fc9a47c37fc2.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\1\1fd0ee614a0d47f410a7fc9a47c37fc2.bin
+    projectPath: Library\ShaderCache\1\1fd0ee614a0d47f410a7fc9a47c37fc2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\242ba449865173ddfcd13d0fa2ec2bd7.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\2\242ba449865173ddfcd13d0fa2ec2bd7.bin
+    projectPath: Library\ShaderCache\2\242ba449865173ddfcd13d0fa2ec2bd7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2bde17dd90e86b9f985c03efe3bb2666.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\2\2bde17dd90e86b9f985c03efe3bb2666.bin
+    projectPath: Library\ShaderCache\2\2bde17dd90e86b9f985c03efe3bb2666.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\2d7cc5bd60144585485ca5a88b8b2da0.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\2\2d7cc5bd60144585485ca5a88b8b2da0.bin
+    projectPath: Library\ShaderCache\2\2d7cc5bd60144585485ca5a88b8b2da0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\33823dd99b143b652b02c2c901d4b4e4.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\3\33823dd99b143b652b02c2c901d4b4e4.bin
+    projectPath: Library\ShaderCache\3\33823dd99b143b652b02c2c901d4b4e4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3b9b75cc7f33677702c25b2fa8143fc5.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\3\3b9b75cc7f33677702c25b2fa8143fc5.bin
+    projectPath: Library\ShaderCache\3\3b9b75cc7f33677702c25b2fa8143fc5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3cfe42bbfbb1b6fdc6a01ffdac21a6e3.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\3\3cfe42bbfbb1b6fdc6a01ffdac21a6e3.bin
+    projectPath: Library\ShaderCache\3\3cfe42bbfbb1b6fdc6a01ffdac21a6e3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5652d9a4d87f2d68b90a187c5d512c8b.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\5\5652d9a4d87f2d68b90a187c5d512c8b.bin
+    projectPath: Library\ShaderCache\5\5652d9a4d87f2d68b90a187c5d512c8b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\57105b90dcc51d60982d37a899007250.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\5\57105b90dcc51d60982d37a899007250.bin
+    projectPath: Library\ShaderCache\5\57105b90dcc51d60982d37a899007250.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6b789ca558cd069f76bf95a2fe1d0fa6.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\6\6b789ca558cd069f76bf95a2fe1d0fa6.bin
+    projectPath: Library\ShaderCache\6\6b789ca558cd069f76bf95a2fe1d0fa6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7e646c6dc12a5b3226fcfe813d1e6b03.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\7\7e646c6dc12a5b3226fcfe813d1e6b03.bin
+    projectPath: Library\ShaderCache\7\7e646c6dc12a5b3226fcfe813d1e6b03.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\901cdb032916c9211accdd4019a2ce02.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\9\901cdb032916c9211accdd4019a2ce02.bin
+    projectPath: Library\ShaderCache\9\901cdb032916c9211accdd4019a2ce02.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\90b34f4df5811605e54756368c99c346.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\9\90b34f4df5811605e54756368c99c346.bin
+    projectPath: Library\ShaderCache\9\90b34f4df5811605e54756368c99c346.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9170c13cdbeef32990d8aa488e6bfc76.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\9\9170c13cdbeef32990d8aa488e6bfc76.bin
+    projectPath: Library\ShaderCache\9\9170c13cdbeef32990d8aa488e6bfc76.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\93200dcf233c3183114d275c8de9e3b1.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\9\93200dcf233c3183114d275c8de9e3b1.bin
+    projectPath: Library\ShaderCache\9\93200dcf233c3183114d275c8de9e3b1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\94d276a929eca2da6b1022331e3b87bd.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\9\94d276a929eca2da6b1022331e3b87bd.bin
+    projectPath: Library\ShaderCache\9\94d276a929eca2da6b1022331e3b87bd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a382a337c0da0a809e211d370ed3665b.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\a\a382a337c0da0a809e211d370ed3665b.bin
+    projectPath: Library\ShaderCache\a\a382a337c0da0a809e211d370ed3665b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\ad6540778021856608bedef2060a64ea.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\a\ad6540778021856608bedef2060a64ea.bin
+    projectPath: Library\ShaderCache\a\ad6540778021856608bedef2060a64ea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b5a852ff1223a4cfb1e07e0417f1f625.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\b\b5a852ff1223a4cfb1e07e0417f1f625.bin
+    projectPath: Library\ShaderCache\b\b5a852ff1223a4cfb1e07e0417f1f625.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b61d7aa41b6c54c84eecb7bd6815b75d.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\b\b61d7aa41b6c54c84eecb7bd6815b75d.bin
+    projectPath: Library\ShaderCache\b\b61d7aa41b6c54c84eecb7bd6815b75d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bda7d69499d44c35415a3c6ffd72d87e.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\b\bda7d69499d44c35415a3c6ffd72d87e.bin
+    projectPath: Library\ShaderCache\b\bda7d69499d44c35415a3c6ffd72d87e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c5c25106c504ec45ef1c6434d20e265c.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\c\c5c25106c504ec45ef1c6434d20e265c.bin
+    projectPath: Library\ShaderCache\c\c5c25106c504ec45ef1c6434d20e265c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cae27d352a43d0e57f58be68881e8e6b.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\c\cae27d352a43d0e57f58be68881e8e6b.bin
+    projectPath: Library\ShaderCache\c\cae27d352a43d0e57f58be68881e8e6b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d0cc44198dbffe0525333da5edf821d5.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\d\d0cc44198dbffe0525333da5edf821d5.bin
+    projectPath: Library\ShaderCache\d\d0cc44198dbffe0525333da5edf821d5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d1196713ae785bdcd2afeb0d08b9650c.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\d\d1196713ae785bdcd2afeb0d08b9650c.bin
+    projectPath: Library\ShaderCache\d\d1196713ae785bdcd2afeb0d08b9650c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e35a0e589d1171ac353b6336fc242ec6.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\e\e35a0e589d1171ac353b6336fc242ec6.bin
+    projectPath: Library\ShaderCache\e\e35a0e589d1171ac353b6336fc242ec6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e7fee8892885a360e1c2bdea12b62ba1.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\e\e7fee8892885a360e1c2bdea12b62ba1.bin
+    projectPath: Library\ShaderCache\e\e7fee8892885a360e1c2bdea12b62ba1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ea3fcbe836fa7d770add1f4bf85cc632.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\e\ea3fcbe836fa7d770add1f4bf85cc632.bin
+    projectPath: Library\ShaderCache\e\ea3fcbe836fa7d770add1f4bf85cc632.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\ec251887d6905050dd0782065d9efa31.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\e\ec251887d6905050dd0782065d9efa31.bin
+    projectPath: Library\ShaderCache\e\ec251887d6905050dd0782065d9efa31.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\f239784ef4877f17d2e16807dc5f5d70.bin
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\ShaderCache\f\f239784ef4877f17d2e16807dc5f5d70.bin
+    projectPath: Library\ShaderCache\f\f239784ef4877f17d2e16807dc5f5d70.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Library\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\UnityLockfile
     fullPath: C:\Users\ditte\OneDrive\Dokumenter\GitHub\githubVisual\Games\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
